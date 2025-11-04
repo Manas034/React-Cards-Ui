@@ -86,7 +86,7 @@ const App = () => {
     location: "Santa Clara, USA"
   },
   {
-    brandLogo: "https://logo.clearbit.com/adobe.com",
+    brandLogo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC18C40i7FDe_9S95iMH-HiJHppenc6OPUAg&s",
     companyName: "Adobe",
     datePosted: "9 days ago",
     post: "UX Researcher",
@@ -96,7 +96,7 @@ const App = () => {
     location: "San Jose, USA"
   },
   {
-    brandLogo: "https://logo.clearbit.com/ibm.com",
+    brandLogo: "https://static.vecteezy.com/system/resources/previews/021/514/859/non_2x/ibm-logo-brand-software-computer-symbol-gray-design-illustration-free-vector.jpg",
     companyName: "IBM",
     datePosted: "1 day ago",
     post: "Data Engineer",
